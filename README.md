@@ -2,9 +2,12 @@
 
 CURE-AI is an AI-powered healthcare assistant that provides accurate, context-aware, and privacy-preserving medical information using large language models and open-access health APIs.
 
+youtube link- https://youtu.be/jX90YRWtfTM
+
 ## Features
 
 - Natural language healthcare query support
+- analysis user audio,images,video - with Ai to give result 
 - Real-time chat with conversational memory
 - Integration with verified APIs: MedlinePlus, OpenFDA, WHO
 - Medication info, symptom checker, appointment suggestions
@@ -29,6 +32,12 @@ then un zip the src file in the same path,
 then install node.js using  - npm install- in terminal , then to run this use - npm rum dev - .
 
 before that provide a gemini Api ken in .env file .
+
+
+
+if you want to know how it's work -  just check the demo_video on youtube - https://youtu.be/jX90YRWtfTM - or in the files and check the images.
+
+
 
 
 
