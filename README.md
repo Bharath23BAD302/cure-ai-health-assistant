@@ -28,5 +28,8 @@ CURE-AI is an AI-powered healthcare assistant that provides accurate, context-aw
 then un zip the src file in the same path,
 then install node.js using  - npm install- in terminal , then to run this use - npm rum dev - .
 
+before that provide a gemini Api ken in .env file .
+
+
 
 
